@@ -95,7 +95,3 @@ Use the output from __kubeadm token create__ command in previous step from the m
 ```
 kubectl get nodes
 ```
-##### Get component status
-```
-kubectl get cs
-```
